@@ -1,0 +1,77 @@
+{
+  "publicPath": "",
+  "all": [
+    "static/css/1.8db0f36bd0167382fe23.css",
+    "static/css/2.c6087e3b4c105a776300.css",
+    "static/js/1.8db0f36bd0167382fe23.js",
+    "static/js/2.c6087e3b4c105a776300.js",
+    "static/js/index.80b6e18f08214a7e022a.js"
+  ],
+  "initial": [
+    "static/js/index.80b6e18f08214a7e022a.js"
+  ],
+  "async": [
+    "static/css/1.8db0f36bd0167382fe23.css",
+    "static/css/2.c6087e3b4c105a776300.css",
+    "static/js/1.8db0f36bd0167382fe23.js",
+    "static/js/2.c6087e3b4c105a776300.js"
+  ],
+  "modules": {
+    "2fc7742f": [
+      0,
+      2
+    ],
+    "111df0f5": [
+      1,
+      3
+    ],
+    "6f53f6d6": [
+      0,
+      2
+    ],
+    "0cd1e97e": [
+      0,
+      2
+    ],
+    "d07257c0": [
+      4
+    ],
+    "50d4cb4c": [
+      4
+    ],
+    "8e999b76": [
+      4
+    ],
+    "c7924952": [
+      4
+    ],
+    "79bc79a4": [
+      1,
+      3
+    ],
+    "7449b7f1": [
+      4
+    ],
+    "182a9319": [
+      4
+    ],
+    "af3d261c": [
+      0,
+      2
+    ],
+    "63e3dab0": [
+      1,
+      3
+    ],
+    "553bb4f4": [
+      1,
+      3
+    ],
+    "94ce69ee": [
+      4
+    ],
+    "1df2a685": [
+      4
+    ]
+  }
+}
